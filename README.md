@@ -1,9 +1,11 @@
 # SoftwareConfigurationManagement
 This is an abstraction from SWEBOK v3. in Turkish.
 
-1.  ÖNSÖZ
+ÖNSÖZ
+------
 
-    1.  AMAÇ (PURPOSE)
+AMAÇ (PURPOSE)
+--------------
 
 Bu doküman Yazılım Kalite ve Güvencesi dersi amacıyla hazırlanmış olup SWEBOK
 içerisindeki Yazılım Konfigürasyon Yönetimi bölümünün özetini içermektedir.
