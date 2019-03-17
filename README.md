@@ -1,8 +1,5 @@
-# SoftwareConfigurationManagement
-This is an abstraction from SWEBOK v3. in Turkish.
-
-ÖNSÖZ
-------
+# Software Configuration Management / Yazılım Konfigürasyon Yönetimi
+This is an abstraction from SWEBOK v3. in Turkish. / SWEBOK v3. kitabındaki Yazılım Konfigürasyon Yönetimi bölümünün Türkçe bir özetidir.
 
 AMAÇ (PURPOSE)
 --------------
