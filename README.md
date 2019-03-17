@@ -1,5 +1,5 @@
-# Software Configuration Management / Yazılım Konfigürasyon Yönetimi
-This is an abstraction from SWEBOK v3. in Turkish. / SWEBOK v3. kitabındaki Yazılım Konfigürasyon Yönetimi bölümünün Türkçe bir özetidir.
+# Yazılım Konfigürasyon Yönetimi / Software Configuration Management
+SWEBOK v3. kitabındaki Yazılım Konfigürasyon Yönetimi bölümünün Türkçe bir özetidir.  / This is an abstraction from SWEBOK v3. in Turkish.
 
 AMAÇ (PURPOSE)
 --------------
@@ -276,25 +276,25 @@ Yazılım konfigürasyonu tanımlama içerisindeki adımlar aşağıdaki gibidir
 -   *Yazılım Kütüphanesi*
 
 >   Yukarıdaki konu başlıkları ve içeriklerini özetlersek, kontrol edilecek
->   öğe/öğelerin belirlenmesinin ardından yazılımı fonksiyonel ve fiziksel
->   karakteristiklerini belirlemek ve onları koruyarak, ilgili yazılım
->   konfigürasyon öğelerini (yani donanım, yazılım veya ikisinide tek bir varlık
->   gibi yöneten yazılımlar) ve bu öğeleri tanımlar. Bu öğe aynı zamanda
->   içerisinde planlar, şartname ve tasarım dokümanı, test materyalleri, yazılım
->   araçları, kaynak ve çalıştırılabilir kod, kod kütüphaneleri, veri ve veri
->   sözlükleri ve yükleme, bakım, işletim ve yazılımı kullanma dokümanları
->   içerir. O yüzden bu öğenin ilişkileri yakından takip edilir ve yazılım
->   yapısını korumak amaçlanır. Yazılım evrim geçirdikçe sürümlenir (version) ve
->   bu sürümler çeşitlilikler gösterebilir. Bir “Temel (Baseline)” oluşturulur
->   ve bu temel aslında yazılımın geçerli, güvenilir kabul edilen üzerine inşa
->   edilecek versiyonudur. Bir değişiklik isteği geldiğinde (Software Change
->   Request) ve onaylandığında temel üzerine bu değişiklik eklenerek devam eder.
+öğe/öğelerin belirlenmesinin ardından yazılımı fonksiyonel ve fiziksel
+karakteristiklerini belirlemek ve onları koruyarak, ilgili yazılım
+konfigürasyon öğelerini (yani donanım, yazılım veya ikisinide tek bir varlık
+gibi yöneten yazılımlar) ve bu öğeleri tanımlar. Bu öğe aynı zamanda
+içerisinde planlar, şartname ve tasarım dokümanı, test materyalleri, yazılım
+araçları, kaynak ve çalıştırılabilir kod, kod kütüphaneleri, veri ve veri
+sözlükleri ve yükleme, bakım, işletim ve yazılımı kullanma dokümanları
+içerir. O yüzden bu öğenin ilişkileri yakından takip edilir ve yazılım
+yapısını korumak amaçlanır. Yazılım evrim geçirdikçe sürümlenir (version) ve
+bu sürümler çeşitlilikler gösterebilir. Bir “Temel (Baseline)” oluşturulur
+ve bu temel aslında yazılımın geçerli, güvenilir kabul edilen üzerine inşa
+edilecek versiyonudur. Bir değişiklik isteği geldiğinde (Software Change
+Request) ve onaylandığında temel üzerine bu değişiklik eklenerek devam eder.
 
->   Yazılım Kütüphanesi ise günlük hayatta bildiğimiz kendine ait belli bir
->   temeli olan yazılım geliştirme, tasarım veya bakım aşamalarına yardımcı
->   olarak kullanılan hali hazırda kod depoları olarak kabul edilebilirler. Bu
->   kütüphaneler üçüncü parti yani dışarıdan alınmış olabileceği gibi içerde ve
->   eski projelerden özütlenmiş veya üretilmişde olabilirler.
+Yazılım Kütüphanesi ise günlük hayatta bildiğimiz kendine ait belli bir
+temeli olan yazılım geliştirme, tasarım veya bakım aşamalarına yardımcı
+olarak kullanılan hali hazırda kod depoları olarak kabul edilebilirler. Bu
+kütüphaneler üçüncü parti yani dışarıdan alınmış olabileceği gibi içerde ve
+eski projelerden özütlenmiş veya üretilmişde olabilirler.
 
 ### Yazılım Konfigürasyon Kontrolü
 
@@ -330,7 +330,7 @@ Mühendisine görev olarak atanır ve programı, tasarımı, testi yapılarak,
 değişiklik tamamlanır. Bu aşamalar içerisinde gerçekleşen sapmalar ve feragatlar
 otoriterler tarafından gözlemlenir ve rapolanır.
 
-![](media/d99de086adbba63ac03c9ca492ab96c1.png)
+![Değişiklik Kontrol Süreci Akış Diagramı](https://github.com/TheJengo/SoftwareConfigurationManagement/blob/master/images/SCR.png)
 
 Şekil 3.1. Değişiklik Kontrol Süreci Akış Diagramı
 
